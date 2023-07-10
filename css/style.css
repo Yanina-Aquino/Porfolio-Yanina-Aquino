@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #B46060;
+  color: #8C5E5A;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -40,7 +40,7 @@ a:hover {
 }
 
 .color-a {
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .color-d {
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #FFBF9B;
+  background-color: #BF926B;
 }
 
 .overlay-mf {
@@ -161,7 +161,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   margin: 0 auto;
 }
 
@@ -180,7 +180,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   width: 100px;
   bottom: -12px;
 }
@@ -217,12 +217,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #B46060;
+  box-shadow: 0 0 0 3px #8C5E5A;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #B46060;
+  background-color: #8C5E5A;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -247,7 +247,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #B46060;
+  color: #8C5E5A;
   margin-right: 10px;
 }
 
@@ -261,7 +261,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #B46060;
+  box-shadow: 0 0 0 10px #8C5E5A;
   display: block;
 }
 
@@ -308,7 +308,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -327,7 +327,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #B46060;
+  background: #8C5E5A;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -365,7 +365,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #B46060;
+  border-top: 6px solid #8C5E5A;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -482,26 +482,26 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #DFA67B;
+  color: #8C6751;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #B46060;
+  background-color: #401801;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #B46060;
+  color: #401801;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #B46060;
+  color: #401801;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -533,13 +533,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #B46060;
+  background-color: #8C5E5A;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #B46060;
+  background-color: #8C5E5A;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -653,7 +653,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -698,7 +698,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #B46060;
+  background-color: #8C5E5A;
 }
 
 /*======================================
@@ -715,7 +715,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -800,17 +800,17 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #B46060;
+  color: #8C5E5A;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .work-content .w-like .num-like {
@@ -853,7 +853,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #B46060;
+  color: #8C5E5A;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -886,7 +886,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   border-radius: 4px;
 }
 
@@ -940,7 +940,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #B46060;
+  border-left: 4px solid #8C5E5A;
   margin-top: 1rem;
 }
 
@@ -950,7 +950,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -958,7 +958,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #B46060;
+  border-left: 4px solid #8C5E5A;
   padding: 18px;
   font-style: italic;
 }
@@ -990,7 +990,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #B46060;
+  color: #8C5E5A;
 }
 
 .box-comments .list-comments span {
@@ -1007,7 +1007,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #B46060;
+  border-left: 5px solid #8C5E5A;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1024,7 +1024,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   top: 20px;
 }
 
@@ -1035,8 +1035,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #B46060;
-  border-color: #B46060;
+  background-color: #8C5E5A;
+  border-color: #8C5E5A;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1044,7 +1044,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #B46060;
+  background-color: #8C5E5A;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
   border-radius: 15px;
@@ -1093,8 +1093,8 @@ footer .credits a {
 ======================================*/
 
 #sendmessage {
-  color: #B46060;
-  border: 1px solid #B46060;
+  color: #8C5E5A;
+  border: 1px solid #8C5E5A;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1157,7 +1157,7 @@ footer .credits a {
 }
 
 .button-a {
-  background-color: #F0997D;
+  background-color: #8C5E5A;
   color: #fff;
   border-color: #cde1f8;
 }
