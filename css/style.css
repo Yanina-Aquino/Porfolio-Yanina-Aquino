@@ -774,7 +774,10 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+
+
 }
+
 
 .work-box:hover img {
   -webkit-transform: scale(1.3);
